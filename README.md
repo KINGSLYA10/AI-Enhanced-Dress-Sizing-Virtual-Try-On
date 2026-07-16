@@ -1,4 +1,4 @@
-# AI-Enhanced Dress Sizing and Personalized Size Recommendation System with Privacy Protection
+# AI-Enhanced-Dress-Sizing-Virtual-Try-On
 
 An AI-powered solution that solves the online clothing "fit problem" by using computer vision to take accurate body measurements through a webcam, recommending the right size, and letting users try on clothes virtually via a privacy-preserving 3D avatar — without ever exposing their real face or body.
 
