@@ -117,12 +117,12 @@ Then open the app in your browser/UI client, log in via OTP, select a product, a
 
 ## 👥 Team
 
-| Name | Register No. | Year |
-|---|---|---|
-| A. Kingsly | 211422243159 | II Year AIDS |
-| V. Jeeva | 211422243118 | II Year AIDS |
-| H. Lionel Vasantha Raj | 211422243177 | II Year AIDS |
-| R. S. Kishore | 211422243167 | II Year AIDS |
+**Name:**
+
+1. Kingsly
+2. Lionel Vasantharaj
+3. Jeeva
+4. Kaushal Saha
 
 **Mentor:** Mrs. S. Hemamalini, M.E., Associate Professor, Department of Artificial Intelligence and Data Science
 
